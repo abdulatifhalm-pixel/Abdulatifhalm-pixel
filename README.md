@@ -1,11 +1,12 @@
 # Hi, I'm Abdul Latif 👋
 
-Welcome to my GitHub profile! I am a Python enthusiast and love coding and learning new technologies.
+Welcome to my GitHub profile! I am passionate about programming and building useful projects.
 
 ## About Me
 - 🌱 I’m currently learning Python, web development, and data science.
-- 💻 I enjoy building projects and solving programming challenges.
-- 📫 You can reach me at: your_email@example.com
+- 💻 I enjoy coding, solving challenges, and creating new projects.
+- 📫 Connect with me:  
+  [Facebook](https://www.facebook.com/Abdullatif.Halim) | [Twitter](https://twitter.com/Latif.Halim)
 
 ## My Skills
 - Python 🐍
@@ -13,12 +14,13 @@ Welcome to my GitHub profile! I am a Python enthusiast and love coding and learn
 - Git & GitHub
 - Linux & Windows
 
-## Fun GIFs
-Check out some cool GIFs below!  
+## Programming GIFs
+Here are some fun programming GIFs:  
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-![Celebrate GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![GIF1](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+![GIF2](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![GIF3](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
-Thanks for visiting my profile! Feel free to connect with me. 😊
+Thanks for visiting my profile! Feel free to explore my repositories. 😊
