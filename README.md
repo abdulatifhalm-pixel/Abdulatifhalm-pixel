@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Latif
 
-Welcome to my GitHub profile! I am passionate about **programming**, building projects, and learning new technologies.
+Welcome to my GitHub profile! I love **programming**, building projects, and learning new technologies.
 
 ---
 
@@ -23,12 +23,10 @@ Welcome to my GitHub profile! I am passionate about **programming**, building pr
 
 ---
 
-## 🎨 Programming GIFs
-Here are some fun programming-related GIFs:
+## 🎨 Programming GIF
+Here is a fun programming-related GIF:
 
-![Coding GIF 1](https://tenor.com/view/code-coding-programming-gif-11500074)  
-![Coding GIF 2](https://tenor.com/view/coding-gif-18655255)  
-![Coding GIF 3](https://tenor.com/view/coding-programming-gif-27641765)  
+![Coding GIF](https://tenor.com/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811)
 
 ---
 
