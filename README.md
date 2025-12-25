@@ -5,16 +5,16 @@ Welcome to my GitHub profile! I love **programming**, building projects, and lea
 ---
 
 ## 🌱 About Me
-- Currently learning **Python**, **Web Development**, and **Data Science**  
-- Love solving coding challenges and creating innovative projects  
-- Always exploring **new technologies** and improving my skills  
+- Currently learning **Python**, **Web Development**, and **Data Science**
+- Love solving coding challenges and creating useful applications
+- Always exploring **new technologies**
 
 ---
 
 ## 💻 My Skills
 - **Programming Languages:** Python 🐍, JavaScript, HTML, CSS  
-- **Tools & Platforms:** Git & GitHub, Linux, Windows  
-- **Other:** Problem Solving, Algorithms, Data Structures  
+- **Tools & Platforms:** Git & GitHub, Linux & Windows  
+- **Other:** Algorithms, Problem Solving
 
 ---
 
@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I love **programming**, building projects, and lea
 ---
 
 ## 🎨 Programming GIF
-Here is a fun programming-related GIF:
+Here is a programming-related animation:
 
-![Coding GIF](https://tenor.com/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811)
+![Coding GIF](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ---
 
