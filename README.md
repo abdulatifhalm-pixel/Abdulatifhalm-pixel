@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I love programming and creating interesting projec
 ## 🎨 Programming GIFs
 Here are some fun programming-related GIFs:
 
-![Coding GIF 1](https://pixabay.com/gifs/code-programming-computer-science-6618/)  
-![Coding GIF 2](https://tenor.com/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811)  
-![Coding GIF 3](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding GIF 1](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+![Coding GIF 2](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+![Coding GIF 3](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ---
 
