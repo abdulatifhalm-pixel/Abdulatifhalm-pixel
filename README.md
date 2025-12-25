@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I love programming and building cool projects.
 ## 🔗 Connect with Me
 [Facebook](https://www.facebook.com/Abdullatif.Halim) | [Twitter](https://twitter.com/Latif.Halim)
 
-
+## 🎨 Programming GIFs
+Here are some fun programming-related animations:
 
 ![Coding GIF 1](https://tenor.com/view/code-coding-programming-gif-11500074)  
 ![Coding GIF 2](https://tenor.com/view/coding-gif-18655255)  
