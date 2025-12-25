@@ -1,26 +1,34 @@
-# Hi, I'm Abdul Latif 👋
+# 👋 Hi, I'm Abdul Latif
 
-Welcome to my GitHub profile! I love programming and building cool projects.
+Welcome to my GitHub profile! I am passionate about **programming**, building projects, and learning new technologies.
+
+---
 
 ## 🌱 About Me
-- Learning **Python**, **Web Development**, and **Data Science**
-- Passionate about **coding** and solving problems
-- Always exploring **new tech and tools**
+- Currently learning **Python**, **Web Development**, and **Data Science**  
+- Love solving coding challenges and creating innovative projects  
+- Always exploring **new technologies** and improving my skills  
+
+---
 
 ## 💻 My Skills
-- Python 🐍 | HTML, CSS, JavaScript
-- Git & GitHub | Linux & Windows
-- Problem Solving & Algorithms
+- **Programming Languages:** Python 🐍, JavaScript, HTML, CSS  
+- **Tools & Platforms:** Git & GitHub, Linux, Windows  
+- **Other:** Problem Solving, Algorithms, Data Structures  
+
+---
 
 ## 🔗 Connect with Me
 [Facebook](https://www.facebook.com/Abdullatif.Halim) | [Twitter](https://twitter.com/Latif.Halim)
 
+---
+
 ## 🎨 Programming GIFs
-Here are some fun programming-related animations:
+Here are some fun programming-related GIFs:
 
 ![Coding GIF 1](https://tenor.com/view/code-coding-programming-gif-11500074)  
 ![Coding GIF 2](https://tenor.com/view/coding-gif-18655255)  
-![Coding GIF 3](https://tenor.com/view/coding-programming-gif-27641765)
+![Coding GIF 3](https://tenor.com/view/coding-programming-gif-27641765)  
 
 ---
 
