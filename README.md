@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I love **programming**, building projects, and lea
 
 ---
 
-## 🎨 Programming GIF
-Here is a programming-related animation:
+
 
 ![Coding GIF](![212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63](https://github.com/user-attachments/assets/8c5d5440-f736-4d0b-a9d5-2d16f6ee48ca)
-)
+
+
 (![mktcix-gif4](https://github.com/user-attachments/assets/11d78cc4-0a58-4be9-bfcc-46ae250e55b6)
 )
 ---
